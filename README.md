@@ -21,7 +21,7 @@ Included writeup PDF link: [https://redops.at/en/blog/direct-syscalls-vs-indirec
 ---
 
 ## Notes:
-* Reimplementation of the ssn fetching method used here is recommended, the one showed in this repo is really simple and can present problems with certains AV/EDRs, more complex methods has been showed before, and implementing them is out of the scope of this project.
+* Reimplementation of the ssn fetching method used here is recommended, the one showed in this repo is really simple and can present problems with certains AV/EDRs, more complex methods has been showed before, and implementing them is out of scope in this project.
 * For doing this, modifications to the GetSsn() function is needed, maintining its definition.
 
 ---
