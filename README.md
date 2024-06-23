@@ -3,9 +3,7 @@
 Single stub direct and indirect syscalling with runtime SSN resolving for windows.
 
 ---
-
-## Included writeup PDF link: [https://redops.at/en/blog/direct-syscalls-vs-indirect-syscalls](https://redops.at/en/blog/direct-syscalls-vs-indirect-syscalls)
-
+Included writeup PDF link: [https://redops.at/en/blog/direct-syscalls-vs-indirect-syscalls](https://redops.at/en/blog/direct-syscalls-vs-indirect-syscalls)
 ---
 
 ## Features:
