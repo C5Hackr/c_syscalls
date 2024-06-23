@@ -4,6 +4,10 @@ Single stub direct and indirect syscalling with runtime SSN resolving for window
 
 ---
 
+## Included writeup PDF link: [https://redops.at/en/blog/direct-syscalls-vs-indirect-syscalls](https://redops.at/en/blog/direct-syscalls-vs-indirect-syscalls)
+
+---
+
 ## Features:
 * Single stub
 * One single line for all your syscalls
